@@ -1,5 +1,20 @@
 ### Hi there,I am fansangg~  👋
 
+**Languages and Tools:**
+    
+    <p>
+    <code><img width="10%" src="https://github.com/fansangg/fansangg/blob/master/assets/kotlinlang-ar21.svg"></code>
+    <code><img width="10%" src="https://github.com/fansangg/fansangg/blob/master/assets/java-horizontal.svg"></code>
+    <code><img width="10%" src="https://github.com/fansangg/fansangg/blob/master/assets/javascript-horizontal.svg"></code>
+    <br />
+    <code><img width="10%" src="https://github.com/fansangg/fansangg/blob/master/assets/python-horizontal.svg"></code>
+    <code><img width="10%" src="https://github.com/fansangg/fansangg/blob/master/assets/reactjs-ar21.svg"></code>
+    <code><img width="10%" src="https://github.com/fansangg/fansangg/blob/master/assets/dartlang-ar21.svg"></code>
+    <br />
+    <code><img width="10%" src="https://github.com/fansangg/fansangg/blob/master/assets/android-ar21.svg"></code>
+    <code><img width="10%" src="https://github.com/fansangg/fansangg/blob/master/assets/gradle-ar21.svg"></code>
+    <code><img width="10%" src="https://github.com/fansangg/fansangg/blob/master/assets/git-scm-ar21.svg"></code>
+    </p>
 
 
 ![fansangg's github stats](https://github-readme-stats.vercel.app/api?username=fansangg&count_private=true&show_icons=true&hide=stars)
