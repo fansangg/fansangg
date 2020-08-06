@@ -1,4 +1,7 @@
-## Hi there,I am fansangg  👋
+<p>
+<img style="vertical-align:text-bottom" src="https://github.com/fansangg/fansangg/blob/master/assets/avatar.png?raw=true" width="10%" height="10%"> 
+Hi there,I am fansangg  👋
+</p> 
 
 ### Languages and Tools:
 
