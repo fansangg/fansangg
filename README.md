@@ -1,4 +1,4 @@
-### Hi there,I am fansangg~  👋
+## Hi there,I am fansangg  👋
 
 ### Languages and Tools:
 
@@ -17,7 +17,8 @@
 </p>
 
 
-### github state
+
+### GitHub State
 
 
 ![fansangg's github stats](https://github-readme-stats.vercel.app/api?username=fansangg&count_private=true&show_icons=true&hide=stars)
