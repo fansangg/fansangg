@@ -1,7 +1,8 @@
-<p>
-<img style="vertical-align:text-bottom" src="https://github.com/fansangg/fansangg/blob/master/assets/avatar.png?raw=true" width="10%" height="10%"> 
-Hi there,I am fansangg  👋
+<p style="fontSize:24px">
+<img style="vertical-align:bottom" src="https://github.com/fansangg/fansangg/blob/master/assets/avatar.png?raw=true" width="8%" height="8%"> 
+       &nbsp;&nbsp;&nbsp;Hi there,I am fansangg  👋 
 </p> 
+</br>
 
 ### Languages and Tools:
 
@@ -18,8 +19,7 @@ Hi there,I am fansangg  👋
     <code><img width="10%" src="https://raw.githubusercontent.com/fansangg/fansangg/6ce97b2c9462f87e1b42fada64b7c139fc456de1/assets/gradle-ar21.svg"></code>
     <code><img width="10%" src="https://raw.githubusercontent.com/fansangg/fansangg/6ce97b2c9462f87e1b42fada64b7c139fc456de1/assets/git-scm-ar21.svg"></code>
 </p>
-
-
+</br>
 
 ### GitHub State
 
