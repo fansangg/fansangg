@@ -28,10 +28,10 @@
 ![fansangg's github stats](https://github-readme-stats.vercel.app/api?username=fansangg&count_private=true&show_icons=true&hide=stars)
 
 
-### Recently played
+### Spotify State
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=70w68haugf0qf9r4kkq52l375&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=70w68haugf0qf9r4kkq52l375&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 <!--
