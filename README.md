@@ -25,7 +25,7 @@
 ### GitHub State
 
 
-![fansangg's github stats](https://github-readme-stats.vercel.app/api?username=fansangg&count_private=true&show_icons=true&hide=stars)
+![fansangg's github stats](https://github-readme-stats.vercel.app/api?username=fansangg&count_private=true&show_icons=true&hide=stars&theme=merko)
 
 
 ### Spotify State
