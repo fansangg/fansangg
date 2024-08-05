@@ -5,7 +5,7 @@
 </p> 
 </br>
 
-### GitHub State
+### GitHub Stats
 
 ![fansangg's github stats](https://github-readme-stats.vercel.app/api?username=fansangg&count_private=true&show_icons=true&hide=stars&theme=transparent&include_all_commits)
 
