@@ -8,10 +8,10 @@
 ### GitHub State
 
 
-![fansangg's github stats](https://github-readme-stats.vercel.app/api?username=fansangg&count_private=true&show_icons=true&hide=stars&theme=transparent)
+![fansangg's github stats](https://github-readme-stats.vercel.app/api?username=fansangg&include_all_commits&count_private=true&show_icons=true&hide=stars&theme=transparent)
 
 
-![fansangg's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fansangg&layout=compact&theme=transparent)
+![fansangg's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fansangg&layout=compact&theme=transparent&count_private=true)
 
 
 ### Listening
