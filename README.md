@@ -11,10 +11,9 @@
 ![fansangg's github stats](https://github-readme-stats.vercel.app/api?username=fansangg&count_private=true&show_icons=true&hide=stars&theme=merko)
 
 
-### Spotify State
+### Listening
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=70w68haugf0qf9r4kkq52l375&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001394.50cdf4652fec4399b3934de7f7f95bb4.0840)](https://github.com/rayriffy/apple-music-github-profile)
 
 <!--
 **fansangg/fansangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
