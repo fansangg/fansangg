@@ -13,7 +13,7 @@
 
 ### Listening
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001394.50cdf4652fec4399b3934de7f7f95bb4.0840)](https://github.com/rayriffy/apple-music-github-profile)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001394.50cdf4652fec4399b3934de7f7f95bb4.0840)](https://github.com/rayriffy/apple-music-github-profile)
 
 <!--
 **fansangg/fansangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
