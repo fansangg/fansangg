@@ -7,7 +7,7 @@
 
 ### GitHub Stats
 
-![fansangg's github stats](https://github-readme-stats.vercel.app/api?username=fansangg&count_private=true&show_icons=true&hide=stars&theme=transparent&include_all_commits)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fansangg&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 
 ![fansangg's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fansangg&layout=compact&theme=transparent&count_private=true)
