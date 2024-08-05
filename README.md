@@ -13,8 +13,7 @@
 
 ### Spotify State
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=70w68haugf0qf9r4kkq52l375&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=70w68haugf0qf9r4kkq52l375&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 <!--
