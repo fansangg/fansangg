@@ -6,7 +6,6 @@
 </br>
 
 ### GitHub Stats
-
 <a href="https://github.com/fansangg/fansangg"><img src="https://streak-stats.demolab.com?user=fansangg&theme=transparent&border_radius=12&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
 
 
@@ -14,7 +13,6 @@
 
 
 ### Listening
-
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001394.50cdf4652fec4399b3934de7f7f95bb4.0840)](https://github.com/rayriffy/apple-music-github-profile)
 
 <!--
