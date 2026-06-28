@@ -12,9 +12,6 @@
 ![fansangg's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fansangg&layout=compact&theme=transparent&count_private=true)
 
 
-### Listening
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001394.50cdf4652fec4399b3934de7f7f95bb4.0840)](https://music-profile.rayriffy.com)
-
 <!--
 **fansangg/fansangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
